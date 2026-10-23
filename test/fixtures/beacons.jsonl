@@ -1,0 +1,8 @@
+{"mimi":1,"device_id":"mimi-a1b2","name":"Mimi","fw":"0.1.0","ip":"192.168.1.40","port":80}
+{"mimi":1,"device_id":"mimi-9f31","name":"Mimi Studio","fw":"0.2.0-rc1","ip":"192.168.1.57","port":8080}
+{"mimi":1,"device_id":"mimi-c0de","ip":"10.0.0.12"}
+{"mimi":2,"device_id":"mimi-old","ip":"192.168.1.41","port":80}
+{"device_id":"mimi-a1b2","ip":"192.168.1.40"}
+{"mimi":1,"ip":"192.168.1.42","port":80}
+{"mimi":1,"device_id":"mimi-a1b2","port":80}
+not json at all
